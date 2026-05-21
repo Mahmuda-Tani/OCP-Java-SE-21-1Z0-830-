@@ -1,6 +1,8 @@
 package com.tani.ocp;
 
 import com.tani.ocp.chapter1.variables.VariablesExample;
+import com.tani.ocp.chapter1.operators.OperatorsExample;
+
 
 public class App {
 
@@ -8,6 +10,7 @@ public class App {
         System.out.println("Java 21 OCP Lab Started");
 
         // Optional: run one Chapter 1 example.
-        VariablesExample.main(args);
+        // VariablesExample.main(args);
+        OperatorsExample.main(args);
     }
 }
