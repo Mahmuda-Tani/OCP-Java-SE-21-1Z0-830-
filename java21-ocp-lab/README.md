@@ -25,4 +25,5 @@ The `exec:java` command launches `com.tani.ocp.App`.
 
 ## Current Progress
 
-- Chapter 1 In Progress
+- Chapter 1 (Building Blocks) — in progress
+- Chapter 3 (Making Decisions) — study guide + examples added
